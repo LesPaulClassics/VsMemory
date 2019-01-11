@@ -1,0 +1,10 @@
+Test your memory by playing the classic card matching game with 24 pair of cards.
+There are three ways to play:
+1) One Player
+2) One Player Vs The Computer
+3) Two Player
+In the "Vs The Computer" mode, the computers IQ can be adjusted for varying levels of difficulty.
+
+
+0.9
+Initial Beta Release.  All basic functionality working and bug-free.  Some cleanup and additional features to follow...

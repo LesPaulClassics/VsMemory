@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/Utils.java
+END
+MemoryGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/MemoryGame.java
+END
+HighScoresDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/HighScoresDB.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/Position.java
+END
+IShowMatchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/IShowMatchResult.java
+END
+GameConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/GameConstants.java
+END
+IShowHighScores.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/IShowHighScores.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tsop/!svn/ver/50/VsMemory/trunk/src/com/tsop/games/memory/Card.java
+END
+GameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/GameType.java
+END
+HighScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/HighScore.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/User.java
+END
+IGameBoardDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/IGameBoardDisplay.java
+END
+GameBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tsop/!svn/ver/50/VsMemory/trunk/src/com/tsop/games/memory/GameBoard.java
+END
+IShowGameboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/IShowGameboard.java
+END
+StatusMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/StatusMonitor.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/Player.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/Match.java
+END
+Computer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/43/VsMemory/trunk/src/com/tsop/games/memory/Computer.java
+END

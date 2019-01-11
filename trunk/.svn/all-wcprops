@@ -1,0 +1,51 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 19
+/svn/tsop/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/tsop/!svn/ver/50/VsMemory/trunk
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tsop/!svn/ver/48/VsMemory/trunk/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tsop/!svn/ver/48/VsMemory/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tsop/!svn/ver/48/VsMemory/trunk/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tsop/!svn/ver/50/VsMemory/trunk/AndroidManifest.xml
+END
+install to phone.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tsop/!svn/ver/48/VsMemory/trunk/install%20to%20phone.bat
+END
+VsMemory.apk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tsop/!svn/ver/50/VsMemory/trunk/VsMemory.apk
+END
+install to phone dsktp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tsop/!svn/ver/48/VsMemory/trunk/install%20to%20phone%20dsktp.bat
+END

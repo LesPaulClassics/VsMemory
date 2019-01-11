@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/layout
+END
+gameboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tsop/!svn/ver/50/VsMemory/trunk/res/layout/gameboard.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/layout/main.xml
+END
+match_result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/layout/match_result.xml
+END
+custom_game_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/layout/custom_game_view.xml
+END
+high_scores.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/layout/high_scores.xml
+END

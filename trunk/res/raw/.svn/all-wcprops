@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw
+END
+computermatches.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/computermatches.wav
+END
+deal.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/deal.wav
+END
+startgame.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tsop/!svn/ver/50/VsMemory/trunk/res/raw/startgame.wav
+END
+nomatch.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/nomatch.wav
+END
+flip.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/flip.wav
+END
+playerwins.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/playerwins.wav
+END
+computerwins.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/computerwins.wav
+END
+playermatches.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tsop/!svn/ver/44/VsMemory/trunk/res/raw/playermatches.wav
+END

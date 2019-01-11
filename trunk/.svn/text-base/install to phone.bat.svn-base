@@ -1,0 +1,1 @@
+"D:\programming\android-sdk-windows\tools\adb.exe" install -r VsMemory.apk
